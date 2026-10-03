@@ -1,0 +1,8 @@
+bin/
+obj/
+publish/
+stellargear.zip
+deploy-output.txt
+.vs/
+.idea/
+*.user
